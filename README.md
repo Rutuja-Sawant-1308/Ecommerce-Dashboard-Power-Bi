@@ -1,28 +1,59 @@
-# Ecommerce-Dashboard-Power-Bi
-🚀 Overview
-This Power BI dashboard provides a comprehensive analysis of e-commerce sales performance, helping businesses track key metrics, identify trends, and make data-driven decisions.
+📊 E-Commerce Sales Dashboard – Power BI Project
+This project showcases an interactive E-Commerce Sales Dashboard built using Power BI and Excel, designed to provide valuable insights into customer orders, revenue, product categories, discounts, and more.
 
-🔹 Features
-✅ Key Performance Indicators (KPIs) – Order Count, Total Revenue, Total Discount, and Average Final Price.
-✅ Category-wise Sales Analysis – Identify top-performing product categories.
-✅ Month-wise & Day-wise Sales Trends – Discover peak sales periods for better forecasting.
-✅ Payment Method Breakdown – Analyze customer payment preferences (Credit Card, UPI, Net Banking, etc.).
-✅ Dynamic Filters – Slice data by category, month, quarter, and date range for deeper insights.
+🧠 Project Objective:
+To analyze e-commerce transaction data and derive meaningful insights that can help in decision-making related to sales performance, marketing strategies, and customer preferences.
 
-📊 Visuals Included
-Bar Charts & Treemaps for category-wise sales.
-Line & Area Charts for sales trends over time.
-Pie Chart for payment method distribution.
-KPI Cards for quick business insights.
-🛠️ Tech Stack
-Power BI – Data visualization & dashboard development.
-SQL (optional) – Data transformation & querying.
-Excel/CSV – Data sources for analysis.
-🎯 Use Case
-This dashboard is ideal for e-commerce businesses looking to:
-✔️ Monitor real-time sales performance.
-✔️ Identify sales trends and customer behavior.
-✔️ Optimize pricing, discounts, and marketing strategies.
+🔧 Tools Used:
+Excel: Data cleaning and preprocessing
 
-#PowerBI #DataAnalytics #EcommerceDashboard #SalesAnalysis #BusinessIntelligence
+Power BI: Data modeling, visualization, and dashboard creation
+
+📈 Key Metrics & Features:
+Total Orders: 3,660
+
+Total Revenue: ₹757K
+
+Total Discount: ₹175K
+
+Average Final Price: ₹206.91
+
+Discount Impact %: 18.80%
+
+Monthly and Quarterly Revenue Trend
+
+Category-wise and Day-wise Revenue Analysis
+
+Payment Method Distribution (UPI, Net Banking, Debit Card, etc.)
+
+Top Performing Product Categories
+
+Interactive Filters by Month, Category, and Date
+
+📁 Dataset:
+The dataset is a simulated e-commerce transactions dataset (can be found on Kaggle or customized for educational purposes).
+
+📊 Visuals Included:
+Bar Charts
+
+Line Graphs
+
+Donut Charts
+
+Tree Maps
+
+Gauge Charts
+
+Sankey Diagrams
+
+✅ Outcome:
+Improved understanding of sales trends and customer behavior
+
+Developed a professional and user-friendly Power BI dashboard
+
+Practiced end-to-end data analytics workflow: Data Cleaning → Analysis → Visualization → Insight Sharing
+
+💬 Feel free to fork, clone, or connect with me on LinkedIn if you're interested in data projects or collaboration!
+📌 Tags:
+#PowerBI #DataAnalytics #DashboardProject #Ecommerce #Excel #BI #PortfolioProject
 
